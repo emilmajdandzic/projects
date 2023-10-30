@@ -9,3 +9,6 @@ This was written as part of a project for the course "Python Programmer Bootcamp
 
 ### [Poker.py](Poker.py)
 This was as project during my time at high school (grade 11) in 2016.
+
+## [SWP_by_foresttype.R](SWP_by_foresttype.R)
+This was part of the code I wrote during my civil service assignment at the Swiss Federal Institute for Forest, Snow and Landscape Research WSL.
